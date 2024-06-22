@@ -9,12 +9,13 @@
   height:300px;
 }
 
-.nav-link {
+
+
+.nav-link{
   color: black;
 }
 
-.nav-link.active,
-.nav-link:focus,
 .nav-link:hover {
-  color: rgb(255, 162, 177);
+  color: rgb(255, 177, 189);
 }
+
