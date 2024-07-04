@@ -15,19 +15,16 @@
 
   <div class="announcement-bar" id="announcementBar">
     free domestic shipping (Singapore) for orders above $30 - code: mango
-    <button onclick="closeAnnouncement()" style="float: right;">X</button>
   </div>
-  <script>
-    function closeAnnouncement() {
-      document.getElementById('announcementBar').style.display = 'none';
-    }
-  </script>
 
   <header>
     <nav>
       <ul class="nav justify-content-center mt-3">
         <li class="nav-item">
-          <a class="nav-link" href="products.html">PRODUCTS</a>
+          <a class="nav-link" href="about.html">ABOUT</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="shop.html">SHOP</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="tac.html">T&C</a>
@@ -57,23 +54,25 @@
     <div class="top-divider" style="width: 3%;"></div>
     <div style="margin-top: 30px;"></div>
     <div class="text-center">
-      <h1 class="big-header">Contact</h1>
+      <h2 class="big-header">CONTACT</h2>
       <div class="top-divider" style="width: 3%;"></div>
       <div style="margin-top: 30px;"></div>
-      <div class="contact-form-container form-width-custom" style="text-align: center; padding: 20px;">
-        <form id="contact-form" style="width: 1000px; margin: auto;">
-          <div class="form-group">
-            <input type="text" id="name" class="form-control" placeholder="Your Name" required>
-          </div>
-          <div class="form-group">
-            <input type="email" id="email" class="form-control" placeholder="Your Email" required>
-          </div>
-          <div class="form-group">
-            <textarea id="message" class="form-control" rows="5" placeholder="Your Message" required></textarea>
-          </div>
-          <button type="submit" class="btn">Send Message</button>
-        </form>
-      </div>
+    </div>
+
+    <div class="contact-form-container form-width-custom" style="text-align: center; padding: 20px;">
+      <form id="contact-form" style="width: 1000px; margin: auto;">
+        <div class="form-group">
+          <input type="text" id="name" class="form-control" placeholder="Your Name" required>
+        </div>
+        <div class="form-group">
+          <input type="email" id="email" class="form-control" placeholder="Your Email" required>
+        </div>
+        <div class="form-group">
+          <textarea id="message" class="form-control" rows="5" placeholder="Your Message" required></textarea>
+        </div>
+        <button type="submit" class="btn">Send Message</button>
+      </form>
+    </div>
 
   </main>
 
