@@ -13,8 +13,6 @@ document.addEventListener('DOMContentLoaded', function () {
     }
     startSlideShow();
 
-
-
     //ingredients functionality
     let ingredientsContainer = document.querySelector('.ingredients');
     const originalContent = ingredientsContainer.innerHTML;

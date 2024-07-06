@@ -58,4 +58,4 @@ Glozzio website is for those who appreciate affordable, locally-made, cruelty-fr
 The pictures used on this site were sourced from my own personal photos that I photographed myself.
 
 # ACKNOWLEGEMENTS 
-This project has inspired me based on my real website on Big Cartel, which is my own personal business website. While I initially used a template for that site, this project gives me the opportunity to code everything from scratch.
+This project has inspired me based on my real website on Big Cartel, which is my own personal business website. While I initially used a template for that site, this project gives me the opportunity to code everything from scratch. It's focused on a very minimalist and white and pink sleek and chic aesthetic.
